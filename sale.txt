@@ -1,0 +1,12 @@
+laptop
+899.99
+25
+router
+229.95
+40
+printer
+399.99
+20
+monitor
+425.79
+30
