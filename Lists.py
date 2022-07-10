@@ -1,4 +1,4 @@
-#Jeremy beam COP1000
+
 #import random
 #create main func
 #create empy list
