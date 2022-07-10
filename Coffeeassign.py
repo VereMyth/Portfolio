@@ -1,4 +1,4 @@
-#Jeremy Beam COP1000
+
 #Coffeeassign.py
 #pseudocode
 #Prompt for how much coffee in pounds (no floats just ints)
