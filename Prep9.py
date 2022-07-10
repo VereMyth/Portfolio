@@ -1,5 +1,4 @@
-#prep9.py
-#Jeremy Beam, COP1000
+
 #Create a dictionary with four state abbreviations and capitals with abbreviations being keys and the capital being values
 #Start with four states
 #then report the number of k.v pairs with a seperate function.
