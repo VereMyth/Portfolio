@@ -1,4 +1,4 @@
-# Jeremy Beam COP1000
+
 # Use for loop with range
 # Using above  process integers 5 to 50
 # for num in range (6,50,5)
